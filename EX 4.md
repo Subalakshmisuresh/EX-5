@@ -56,10 +56,12 @@ REG NO:
 OUTPUT:
 
 CLIENT:
+
 ![image](https://github.com/Subalakshmisuresh/EX-5/assets/121957896/ac60bae3-498f-47a4-9cb6-7808fbad3137)
 
 
 SERVER:
+
 ![image](https://github.com/Subalakshmisuresh/EX-5/assets/121957896/a213a8b9-c5e1-4b7e-a9d1-719c1978d28a)
 
 
